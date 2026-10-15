@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Project image placeholder">
+  <rect width="640" height="400" fill="#fbfaf7"/>
+  <rect x="40" y="40" width="560" height="320" rx="16" fill="#e4f1ec"/>
+  <rect x="80" y="240" width="60" height="80" fill="#1f6f5c" opacity="0.5"/>
+  <rect x="170" y="190" width="60" height="130" fill="#1f6f5c" opacity="0.6"/>
+  <rect x="260" y="150" width="60" height="170" fill="#1f6f5c" opacity="0.7"/>
+  <rect x="350" y="110" width="60" height="210" fill="#1f6f5c" opacity="0.85"/>
+  <text x="520" y="90" text-anchor="end" font-family="Arial, sans-serif" font-size="20" fill="#1f6f5c">Replace with a project screenshot</text>
+</svg>

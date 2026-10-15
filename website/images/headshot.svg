@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Headshot placeholder">
+  <rect width="400" height="400" fill="#e4f1ec"/>
+  <circle cx="200" cy="160" r="72" fill="#1f6f5c" opacity="0.35"/>
+  <path d="M70 380c0-80 58-130 130-130s130 50 130 130z" fill="#1f6f5c" opacity="0.35"/>
+  <text x="200" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#1f6f5c">Replace with headshot.jpg</text>
+</svg>
